@@ -12,6 +12,8 @@ I am a web developer in Mahajanga, Madagascar 🇲🇬. Currently specialized in
 #### 📌 My favorite technologies:
 
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
