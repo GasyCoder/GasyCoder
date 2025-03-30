@@ -1,14 +1,15 @@
 ### Salut 👋, Je suis Florent Bezara.
 
-Je suis développeur web à Mahajanga, Madagascar 🇲🇬. Actuellement spécialisé en développement backend avec Laravel, VueJS, NextJS, et Livewire.
+Hello 👋, I am Florent Bezara.
+I am a web developer in Mahajanga, Madagascar 🇲🇬. Currently specialized in backend development with Laravel, VueJS, NextJS, and Livewire.
 
-- 🔭 Je travaille actuellement sur des outils AI et des projets SaaS.
-- 🌱 J'étudie actuellement de nouvelles façons d'intégrer Dolibarr avec Laravel.
-- 👨‍💻 Tous mes projets sont disponibles [ici](https://github.com/GasyCoder).
-- 📫 Comment me joindre : bezaraflorent@gmail.com
-- 📄 En savoir plus sur mon travail [ici](https://gasikaradigital.com).
+🔭 I am currently working on AI tools and SaaS projects.
+🌱 I am currently studying new ways to integrate Dolibarr with Laravel.
+👨‍💻 All my projects are available here.
+📫 How to reach me: bezaraflorent@gmail.com
+📄 Learn more about my work here.
 
-#### 📌 Mes technologies préférées :
+#### 📌 My favorite technologies:
 
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -17,11 +18,11 @@ Je suis développeur web à Mahajanga, Madagascar 🇲🇬. Actuellement spécia
 
 ---
 
-### 📈 Mes statistiques GitHub :
+### 📈 My GitHub stats:
 
 ![Florent's GitHub stats](https://github-readme-stats.vercel.app/api?username=GasyCoder&show_icons=true&theme=radical)
 
-### 📫 Me suivre :
+### 📫 Follow me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
