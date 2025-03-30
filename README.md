@@ -3,7 +3,7 @@ I am a web developer based in Mahajanga, Madagascar 🇲🇬. I specialize in ba
 
 - 🔭 I’m currently working on **AI tools** and **SaaS projects**.
 - 🌱 I’m exploring new ways to integrate **Dolibarr** with **Laravel**.
-- 👨‍💻 All my projects are available [here](https://github.com/your-username).
+- 👨‍💻 All my projects are available [here]((https://github.com/GasyCoder?tab=repositories)).
 - 📫 Reach me at: **bezaraflorent@gmail.com**.
 - 📄 Learn more about my work [here](https://your-portfolio-link.com).
 
