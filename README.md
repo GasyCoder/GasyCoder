@@ -1,8 +1,5 @@
-### Salut 👋, Je suis Florent Bezara.
-
-Hello 👋, I am Florent Bezara.
+###👋 Hi, I'm Florent Bezara.
 I am a web developer in Mahajanga, Madagascar 🇲🇬. Currently specialized in backend development with Laravel, VueJS, NextJS, and Livewire.
-
 🔭 I am currently working on AI tools and SaaS projects.
 🌱 I am currently studying new ways to integrate Dolibarr with Laravel.
 👨‍💻 All my projects are available here.
