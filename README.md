@@ -1,10 +1,11 @@
-###👋 Hi, I'm Florent Bezara.
-I am a web developer in Mahajanga, Madagascar 🇲🇬. Currently specialized in backend development with Laravel, VueJS, NextJS, and Livewire.
-🔭 I am currently working on AI tools and SaaS projects.
-🌱 I am currently studying new ways to integrate Dolibarr with Laravel.
-👨‍💻 All my projects are available here.
-📫 How to reach me: bezaraflorent@gmail.com
-📄 Learn more about my work here.
+### 👋 Hi, I'm Florent Bezara
+I am a web developer based in Mahajanga, Madagascar 🇲🇬. I specialize in backend development with **Laravel**, **Vue.js**, **Next.js**, and **Livewire**.
+
+- 🔭 I’m currently working on **AI tools** and **SaaS projects**.
+- 🌱 I’m exploring new ways to integrate **Dolibarr** with **Laravel**.
+- 👨‍💻 All my projects are available [here](https://github.com/your-username).
+- 📫 Reach me at: **bezaraflorent@gmail.com**.
+- 📄 Learn more about my work [here](https://your-portfolio-link.com).
 
 #### 📌 My favorite technologies:
 
