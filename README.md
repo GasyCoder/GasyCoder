@@ -1,6 +1,6 @@
 ### Salut 👋, Je suis Florent Bezara.
 
-Je suis développeur web à Mahajanga, Madagascar 🇲🇬. Actuellement spécialisé en développement backend avec NodeJS, Laravel, VueJS, NextJS, et Livewire.
+Je suis développeur web à Mahajanga, Madagascar 🇲🇬. Actuellement spécialisé en développement backend avec Laravel, VueJS, NextJS, et Livewire.
 
 - 🔭 Je travaille actuellement sur des outils AI et des projets SaaS.
 - 🌱 J'étudie actuellement de nouvelles façons d'intégrer Dolibarr avec Laravel.
