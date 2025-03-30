@@ -24,6 +24,5 @@ I am a web developer in Mahajanga, Madagascar 🇲🇬. Currently specialized in
 
 ### 📫 Follow me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/florentbezara/))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)]([https://twitter.com/](https://x.com/Florent_bezara))
