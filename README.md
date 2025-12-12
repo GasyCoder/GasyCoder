@@ -63,6 +63,7 @@ I also work on **AI tools**, **automation workflows (n8n)**, and **CLI utilities
 ---
 
 ## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=GasyCoder&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=GasyCoder&show_icons=true&theme=radical&cache_seconds=21600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GasyCoder&layout=compact&theme=radical&cache_seconds=21600)
 
 
