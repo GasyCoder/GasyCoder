@@ -1,27 +1,28 @@
-### 👋 Hi, I'm Florent Bezara
-I am a web developer based in Mahajanga, Madagascar 🇲🇬. I specialize in backend development with **Laravel**, **Vue.js**, **Next.js**, and **Livewire**.
+# Florent Bezara
 
-- 🔭 I’m currently working on **AI tools** and **SaaS projects**.
-- 🌱 I’m exploring new ways to integrate **Dolibarr** with **Laravel**.
-- 📫 Reach me at: **bezaraflorent@gmail.com**.
-- 📄 Learn more about my work [here](https://me.gasycoder.com).
+Backend-focused web developer based in **Mahajanga, Madagascar 🇲🇬**.  
+I build maintainable products with **Laravel / Livewire**, and ship modern UI with **Vue.js / Next.js**.
 
-#### 📌 My favorite technologies:
-
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
-![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+**Now:** AI tools • SaaS systems • Dolibarr integrations  
+**Contact:** bezaraflorent@gmail.com  
+**Portfolio:** https://me.gasycoder.com
 
 ---
 
-### 📈 My GitHub stats:
+## Core Stack
+- **Laravel, Livewire** (backends, dashboards, SaaS)
+- **Vue.js, Next.js** (frontends)
+- **MySQL** (data modeling, performance)
+- **Queues & Jobs** (async workflows)
 
-![Florent's GitHub stats](https://github-readme-stats.vercel.app/api?username=GasyCoder&show_icons=true&theme=radical)
+---
 
-### 📫 Follow me:
+## Links
+- LinkedIn: https://www.linkedin.com/in/florentbezara/
+- X: https://x.com/Florent_bezara
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/florentbezara/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Florent_bezara)
+---
+
+## GitHub
+![stats](https://github-readme-stats.vercel.app/api?username=GasyCoder&show_icons=true&theme=transparent)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GasyCoder&layout=compact&theme=transparent)
