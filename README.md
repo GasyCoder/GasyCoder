@@ -1,15 +1,14 @@
 <div align="center">
-
-# Florent Bezara 👋
-**Backend Web Developer • SaaS Builder • AI Tools**  
-Mahajanga, Madagascar 🇲🇬
-
-<a href="mailto:bezaraflorent@gmail.com"><img src="https://img.shields.io/badge/Email-bezaraflorent%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://me.gasycoder.com"><img src="https://img.shields.io/badge/Portfolio-me.gasycoder.com-111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/florentbezara/"><img src="https://img.shields.io/badge/LinkedIn-Florent%20Bezara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/Florent_bezara"><img src="https://img.shields.io/badge/X-@Florent__bezara-000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
+  <h2>Florent Bezara 👋</h2>
+  <p>Backend Web Developer • SaaS • AI — Mahajanga, Madagascar 🇲🇬</p>
+  <p>
+    <a href="mailto:bezaraflorent@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://me.gasycoder.com"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/florentbezara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/Florent_bezara"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  </p>
 </div>
+
 
 ---
 
