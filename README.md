@@ -1,28 +1,48 @@
-# Florent Bezara
+<div align="center">
 
-Backend-focused web developer based in **Mahajanga, Madagascar 🇲🇬**.  
-I build maintainable products with **Laravel / Livewire**, and ship modern UI with **Vue.js / Next.js**.
+# Florent Bezara • Developer Dashboard
+Mahajanga, Madagascar 🇲🇬 — Laravel / Livewire / Vue / Next.js
 
-**Now:** AI tools • SaaS systems • Dolibarr integrations  
-**Contact:** bezaraflorent@gmail.com  
-**Portfolio:** https://me.gasycoder.com
+<img src="https://komarev.com/ghpvc/?username=GasyCoder&style=for-the-badge&label=PROFILE+VIEWS" />
 
----
-
-## Core Stack
-- **Laravel, Livewire** (backends, dashboards, SaaS)
-- **Vue.js, Next.js** (frontends)
-- **MySQL** (data modeling, performance)
-- **Queues & Jobs** (async workflows)
+</div>
 
 ---
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/florentbezara/
-- X: https://x.com/Florent_bezara
+## What I build
+- **SaaS platforms** (multi-tenant, subscriptions, dashboards)
+- **Backend APIs** (secure auth, clean architecture)
+- **Automation & integration** (Dolibarr workflows, data sync)
 
 ---
 
-## GitHub
-![stats](https://github-readme-stats.vercel.app/api?username=GasyCoder&show_icons=true&theme=transparent)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GasyCoder&layout=compact&theme=transparent)
+## Current Focus
+- AI tools for productivity
+- Dolibarr + Laravel integration patterns
+- Performance & scalable database design
+
+---
+
+## Stack
+| Area | Tools |
+|------|------|
+| Backend | Laravel, Livewire, PHP, REST |
+| Frontend | Vue.js, Next.js, Tailwind CSS |
+| Runtime | Node.js |
+| Data | MySQL |
+| Workflow | Git/GitHub |
+
+---
+
+## Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GasyCoder&show_icons=true&theme=radical" />
+</div>
+
+---
+
+## Contact
+- Email: **bezaraflorent@gmail.com**
+- Portfolio: **https://me.gasycoder.com**
+- LinkedIn: **https://www.linkedin.com/in/florentbezara/**
+- X: **https://x.com/Florent_bezara**
