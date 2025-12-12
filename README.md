@@ -62,5 +62,7 @@ I also work on **AI tools**, **automation workflows (n8n)**, and **CLI utilities
 
 ---
 
-## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=GasyCoder&theme=radical)
+## GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=GasyCoder&theme=radical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GasyCoder&theme=redical&hide_border=true)
+
