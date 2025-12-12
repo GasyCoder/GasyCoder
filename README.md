@@ -63,7 +63,7 @@ I also work on **AI tools**, **automation workflows (n8n)**, and **CLI utilities
 ---
 
 ## GitHub Stats
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GasyCoder&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GasyCoder&layout=compact&theme=radical" />
-</div>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GasyCoder&show_icons=true&theme=radical&cache_seconds=7200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GasyCoder&layout=compact&theme=radical&cache_seconds=7200)
+
