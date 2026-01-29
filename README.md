@@ -53,16 +53,5 @@ I also work on **AI tools**, **automation workflows (n8n)**, and **CLI utilities
 
 > Note: n8n does not have a Skillicons icon, so I represent it with badges below.
 
-### Badges (Automation & AI)
-<p>
-  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Tools-111?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/CLI-Bash-111?style=flat-square&logo=gnubash&logoColor=white" />
-</p>
-
 ---
-
-## GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=GasyCoder&theme=radical&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GasyCoder&theme=redical&hide_border=true)
 
