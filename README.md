@@ -27,13 +27,13 @@ Mahajanga, Madagascar
 
 ## About
 
-Software engineer focused on backend architecture, business applications and SaaS products.
+Software engineer focused on backend architecture, business applications, SaaS products, AI integration and digital transformation.
 
-I primarily work with **Laravel and PHP**, with **Vue.js, Inertia.js and TypeScript** on the frontend.
+I primarily work with **Laravel, PHP and Python**, using frameworks such as **Django** and **Flask**, together with modern frontend and full-stack technologies including **Vue.js, React, Angular, Next.js, Inertia.js and TypeScript**.
 
-My work includes application architecture, API design, authentication and authorization, database design, business workflows, AI integrations and deployment.
+My work covers application architecture, API design, authentication and authorization, database design, cloud deployment, automation, AI integration and business process digitalization.
 
-I build software for real operational environments, with particular attention to maintainability, security, usability and long-term evolution.
+I also work on the **digital transformation of higher education**, with a particular interest in academic, administrative and institutional information systems.
 
 ---
 
@@ -47,7 +47,11 @@ I build software for real operational environments, with particular attention to
 
 Laravel  
 PHP  
+Python  
+Django  
+Flask  
 Node.js  
+Next.js  
 REST APIs  
 Queues & Jobs  
 Authentication  
@@ -60,7 +64,11 @@ RBAC
 ### Frontend
 
 Vue.js  
+React  
+Angular  
+Next.js  
 TypeScript  
+JavaScript  
 Inertia.js  
 Livewire  
 Tailwind CSS  
@@ -78,6 +86,8 @@ PostgreSQL
 Redis  
 Database Design  
 Data Processing  
+Data Integration  
+Data Migration  
 
 </td>
 </tr>
@@ -85,13 +95,65 @@ Data Processing
 
 ---
 
-## Infrastructure
+## AI Engineering
+
+I integrate AI capabilities directly into web applications, SaaS platforms and internal business systems.
+
+My work includes:
+
+- AI integration through APIs and SDKs
+- LLM integration in Laravel, Python and JavaScript applications
+- AI assistants embedded in business applications
+- Retrieval-Augmented Generation
+- Prompt and context engineering
+- Structured output and data extraction
+- AI-assisted workflows
+- Background AI jobs
+- Tool and function calling
+- Multi-provider AI architecture
+
+I work with AI services and development tools such as:
+
+**OpenAI API / SDK · Anthropic API / SDK · Claude Code · Laravel AI SDK · AI CLI tooling**
+
+---
+
+## Automation
+
+Automation is part of both my development workflow and the applications I build.
+
+### Development Automation
+
+- Claude Code
+- AI-assisted development workflows
+- Code generation and refactoring
+- Automated testing workflows
+- CLI automation
+- Git and GitHub workflows
+- CI/CD
+
+### Business Automation
+
+- n8n
+- API orchestration
+- Scheduled jobs
+- Event-driven workflows
+- Notifications
+- Data synchronization
+- ETL workflows
+- Third-party service integration
+
+---
+
+## Data & Cloud
+
+I work with infrastructure and data systems required to deploy and operate production applications.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Systems
+### Cloud & Infrastructure
 
 Linux  
 Docker  
@@ -100,20 +162,24 @@ Nginx
 Cloudflare  
 SSH  
 Cron  
+Web hosting  
+Application deployment  
+Cloud environments  
 
 </td>
 
 <td width="50%" valign="top">
 
-### Development
+### Data Engineering
 
-Git  
-GitHub  
-VS Code  
-Postman  
-Bash  
-GitHub Actions  
-CI/CD  
+Relational databases  
+Data modeling  
+Data migration  
+Data synchronization  
+ETL workflows  
+Structured data processing  
+API-based data exchange  
+Cloud data management  
 
 </td>
 </tr>
@@ -121,51 +187,87 @@ CI/CD
 
 ---
 
-## AI & Automation
+## Development Environment
 
-I work on integrating AI capabilities directly into existing software products and business workflows.
-
-Current areas include:
-
-- LLM API integration
-- AI assistants inside web applications
-- Retrieval-Augmented Generation
-- Prompt and context engineering
-- Structured data extraction
-- Background AI jobs
-- Workflow automation with n8n
-- Internal developer tooling
-- AI-assisted business processes
+Git  
+GitHub  
+VS Code  
+Postman  
+Bash  
+Docker  
+GitHub Actions  
+CI/CD  
+Claude Code  
+AI-assisted CLI workflows  
 
 ---
 
 ## Areas of Work
 
-```text
-Business Applications
-├── Healthcare systems
-├── Education platforms
-├── Administrative systems
-├── SaaS products
-└── Internal management tools
-
-Backend Engineering
-├── Application architecture
+```text id="a23mq8"
+Software Engineering
+├── Backend architecture
+├── Business applications
+├── SaaS platforms
 ├── REST APIs
-├── Authentication
-├── Roles and permissions
-├── Queues and background jobs
-├── Multi-tenant architecture
+├── Authentication and RBAC
+├── Multi-tenant systems
 └── Third-party integrations
 
-AI & Automation
-├── LLM integrations
-├── AI assistants
+Frontend & Full Stack
+├── Vue.js
+├── React
+├── Angular
+├── Next.js
+├── TypeScript
+└── Inertia.js
+
+AI Engineering
+├── AI API integration
+├── AI SDK integration
+├── LLM assistants
 ├── RAG systems
-├── Workflow automation
-├── Data processing
-└── Developer tools
+├── Prompt and context engineering
+├── Tool calling
+└── AI workflow automation
+
+Data & Cloud
+├── Relational databases
+├── Data integration
+├── Data migration
+├── ETL workflows
+├── Docker
+├── Linux
+├── Cloud deployment
+└── Application infrastructure
+
+Digital Transformation
+├── Higher education
+├── Academic management
+├── Administrative systems
+├── Institutional workflows
+├── Healthcare information systems
+└── Business process digitalization
 ```
+
+---
+
+## Digital Transformation
+
+Beyond software development, I am interested in how digital technologies transform organizations, workflows and public services.
+
+A particular area of interest is the **digital transformation of higher education**, including:
+
+- academic information systems
+- administrative digitalization
+- student services
+- institutional data management
+- digital workflows
+- interoperability between information systems
+- digital skills and organizational change
+- AI adoption in higher education
+
+I focus on the relationship between **technology, processes, people and institutional organization**, rather than technology alone.
 
 ---
 
@@ -174,13 +276,14 @@ AI & Automation
 I prefer software that is:
 
 - simple to understand
-- easy to maintain
+- maintainable over time
 - secure by design
-- explicit rather than over-engineered
-- structured around business requirements
-- testable and observable
-- scalable when needed
-- practical for the people who actually use it
+- explicit rather than unnecessarily complex
+- structured around real business requirements
+- modular and testable
+- observable in production
+- scalable when required
+- designed for the people who actually use it
 
 ---
 
@@ -189,14 +292,20 @@ I prefer software that is:
 Currently working on:
 
 - Laravel application architecture
-- Vue.js and Inertia.js applications
-- healthcare software
-- university and education systems
-- AI integration in business applications
+- Python backend development
+- Django and Flask applications
+- Vue.js, React and Next.js applications
+- healthcare information systems
+- higher education digital systems
+- AI API and SDK integration
+- AI assistants inside business applications
+- Claude Code development automation
 - workflow automation
 - roles and permissions architecture
-- deployment and infrastructure
+- data integration
+- cloud deployment
 - SaaS product development
+- digital transformation in higher education
 
 ---
 
@@ -204,7 +313,7 @@ Currently working on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,vue,ts,js,nodejs,python,tailwind,mysql,postgres,redis,docker,linux,nginx,git,github,vscode,postman&perline=9" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask,nodejs,vue,react,angular,nextjs,ts,js,tailwind,mysql,postgres,redis,docker,linux,nginx,cloudflare,git,github,vscode,postman&perline=8" />
 
 </div>
 
@@ -225,6 +334,6 @@ bezaraflorent@gmail.com
 
 <div align="center">
 
-<sub>Backend engineering · SaaS · AI integration · Business software</sub>
+<sub>Software Engineering · Backend Architecture · SaaS · AI Integration · Data & Cloud · Digital Transformation</sub>
 
 </div>
